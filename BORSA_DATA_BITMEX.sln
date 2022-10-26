@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BORSA_DATA_BITMEX", "BORSA_DATA_BITMEX\BORSA_DATA_BITMEX.csproj", "{978DFEF2-CCB7-46EB-8863-CD237C74C6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978DFEF2-CCB7-46EB-8863-CD237C74C6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978DFEF2-CCB7-46EB-8863-CD237C74C6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978DFEF2-CCB7-46EB-8863-CD237C74C6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978DFEF2-CCB7-46EB-8863-CD237C74C6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5B1995-5C16-499B-B69E-446B2EA87FAE}
+	EndGlobalSection
+EndGlobal
